@@ -1,0 +1,13 @@
+{
+    "description": "ChatGPT bot for Telegram.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alireza Salehizadeh",
+            "email": "alirezasalehizadehco@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
